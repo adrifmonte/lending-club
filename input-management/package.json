@@ -1,0 +1,16 @@
+{
+  "name": "input-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "highland": "^2.13.0",
+    "uuid": "^3.2.1"
+  }
+}
